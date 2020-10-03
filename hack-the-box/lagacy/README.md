@@ -7,7 +7,7 @@ export IP=10.10.10.4
 ```sh
 sudo nmap -A -T4 -p- -oN nmap-initial $IP
 ```
-![nmap-initial]("./screenshots/nmap-initial.png")
+![nmap-initial]("/screenshots/nmap-initial.png")
 
 Start metasploit
 ```sh
